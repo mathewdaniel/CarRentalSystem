@@ -1,0 +1,24 @@
+Name,			Type,			Model, 			Quantity
+-----------------------------------------------------------	
+Audi, 			Crossover,  	Q5, 					1 
+Audi, 			Luxury Car, 	A4 allroad, 			2 
+Audi, 			Wagon,  		A4 allroad, 			0 
+BMW, 			Convertible,  	i8, 					2 
+BMW, 			Diesel,  		3 Series, 				1 
+Buick, 			Wagon,  		Regal TourX, 			1 
+Chevrolet, 		Sedan,  		Volt, 					1 
+Chevrolet, 		Sports Car,  	Corvette,				0 
+Ford, 			Diesel,  		Super Duty F-350 SRW, 	1 
+Honda, 			Van,  			Odyssey, 				3 
+Kia, 			Crossover,  	Niro Plug-In Hybrid, 	1 
+Mercedes-Benz, 	Diesel,  		Sprinter Cargo Van, 	2 
+Mercedes-Benz, 	Sports Car,  	SL, 					1 
+Mercedes-Benz, 	SUV,  			GLE, 					1 
+Porsche, 		Convertible,  	911, 					1 
+Ram, 			Truck,  		Truck 1500, 			1 
+smart, 			Convertible,  	fortwo electric drive, 	2 
+Toyota, 		Crossover,  	RAV4, 					1 
+Toyota, 		Truck,  		Tundra 4WD, 			1 
+Toyota, 		Van,  			Sienna, 				1 
+Volkswagen, 	Sedan,  		Golf SportWagen, 		1 
+Volvo, 			Sedan,  		V60, 					2 
